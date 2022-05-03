@@ -1,0 +1,111 @@
+body{
+    background-color: black;
+}
+ #titulo h1{
+    padding-top: 1.4%;
+    text-align: center;
+    color:white;
+
+}
+#titulo{
+    width: 100%;
+    height: 100px;
+    background-color:dimgray;
+}
+#modos h2{
+    color: white;
+    position: relative;
+    display:inline-flex;
+    padding-top: 1.4%;
+    margin-left: 13%;
+}
+#modos{
+    margin-top: 1px;
+    width: 100%;
+    height: 100px;
+    background-color:darkgrey;
+}
+#filtros{
+    
+    margin-top: 0.8%;
+    width: 98%;
+    height: 225px;
+    margin-left: 1%;
+    background-color:dimgray;
+}
+#filtros div h3,.selecionar{
+    font-size: 15px;
+    width: 260px;
+    height: 65px;
+    background-color:darkgrey;
+    position: absolute;
+}
+#cima{
+    text-align: center;
+    padding-top:1%;
+    margin-left: 4%;
+}
+.f1{
+    margin-left: 1%;
+}
+.f2{
+    margin-left: 14%;
+    padding-left: 4%;
+}
+.f3{
+    margin-left:30% ;
+    padding-left: 4%;
+}
+.f4{
+    margin-left:45% ;
+    padding-left: 4%;
+}
+.f5{
+    margin-left:60% ;
+    padding-left: 4%;
+}
+.f6{
+    margin-left:75% ;
+    padding-left: 4%;
+}
+#baixo{
+    text-align: center;
+    padding-top: 5%;
+    margin-left: 4%;
+    
+}
+.f7{
+    margin-left: 1%;
+}
+.f8{
+    margin-left: 14%;
+    padding-left: 4%;
+}
+.f9{
+    margin-left:30% ;
+    padding-left: 4%;
+}
+.f10{
+    margin-left:45% ;
+    padding-left: 4%;
+}
+.f11{
+    margin-left:60% ;
+    padding-left: 4%;
+}
+.f12{
+    margin-left:75% ;
+    padding-left: 4%;
+}
+h3{
+    border-top-style: solid;
+    border-color: blue;
+    border-radius: 10px;
+}
+.selecionar1{
+    background-color: white;
+    position: absolute;
+    margin-left: 4.5%;
+    margin-top: 1.5%;
+    display: flex;
+}
