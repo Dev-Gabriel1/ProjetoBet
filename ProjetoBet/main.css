@@ -102,42 +102,9 @@ h3{
     border-color: blue;
     border-radius: 10px;
 }
-.selecionar1{
-    background-color: white;
-    position: absolute;
-    margin-left: 4.5%;
-    margin-top: 1.5%;
-    display: flex;
-}
-.selecionar2{
-    background-color: white;
-    position: absolute;
-    margin-left: 4.5%;
-    margin-top: 1.5%;
-    display: flex;
-}
-.selecionar3{
-    background-color: white;
-    position: absolute;
-    margin-left: 4.5%;
-    margin-top: 1.5%;
-    display: flex;
-}
-.selecionar4{
-    background-color: white;
-    position: absolute;
-    margin-left: 4.5%;
-    margin-top: 1.5%;
-    display: flex;
-}
-.selecionar5{
-    background-color: white;
-    position: absolute;
-    margin-left: 65%;
-    margin-top: 1.5%;
-    display: flex;
-}
-.selecionar6{
+.selecionar{
+    width: 85px;
+    height: 30px;
     background-color: white;
     position: absolute;
     margin-left: 4.5%;
